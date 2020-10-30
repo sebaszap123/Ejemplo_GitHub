@@ -4,3 +4,4 @@ let c = a + b;
 
 console.log("Hola sublimes aki aprendiendo a programar un poco");
 console.log(`${a} + ${b} = ${c}`);
+console.log(`${a} + ${b} = ${a + b}`);
