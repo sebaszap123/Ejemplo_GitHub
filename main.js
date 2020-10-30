@@ -1,0 +1,6 @@
+let a = 5;
+let b = 6;
+let c = a + b;
+
+console.log("Hola sublimes aki aprendiendo a programar un poco");
+console.log(`${a} + ${b} = ${c}`);
